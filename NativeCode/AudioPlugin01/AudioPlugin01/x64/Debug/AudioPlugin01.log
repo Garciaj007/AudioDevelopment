@@ -1,0 +1,5 @@
+﻿  AudioPlugin01.cpp
+  dllmain.cpp
+  Generating Code...
+     Creating library C:\Development\Unity\AudioPlugin\NativeCode\AudioPlugin01\x64\Debug\AudioPlugin01.lib and object C:\Development\Unity\AudioPlugin\NativeCode\AudioPlugin01\x64\Debug\AudioPlugin01.exp
+  AudioPlugin01.vcxproj -> C:\Development\Unity\AudioPlugin\NativeCode\AudioPlugin01\x64\Debug\AudioPlugin01.dll
