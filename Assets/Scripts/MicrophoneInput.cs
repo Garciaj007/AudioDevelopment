@@ -9,7 +9,10 @@ public class MicrophoneInput : MonoBehaviour {
     public AudioMixerGroup mixerGroupMicrophone, mixerGroupMaster;
 
     AudioSource source;
+
+    #pragma warning disable
     int minSamplingFreq, maxSamplingFreq;
+    #pragma warning restore
 
     // Use this for initialization
     void Start () {
